@@ -1,0 +1,20 @@
+/* Custom styles for ProductDetails component */
+.card {
+    background-color: #343a40;
+    color: white;
+    border: none;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+  
+  .btn {
+    font-family: "Arial", sans-serif;
+  }
+  
